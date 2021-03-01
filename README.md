@@ -16,8 +16,13 @@ We will test the hypothesis that a high flood risk score is a strong predictor f
 
 ![fi](fi.png)
 
-**Load the Demographic Data**
-Geocodio provides a few data sets we can easily append to our property data, for additional studies and usage:
+### About the Data
+
+* **3 images per property** 
+* **2 published flood risk ratings** - one from FEMA, and one from First Street's Flood Score
+* **Each property is/was listed for sale with a published asking price on realtor.com** - as of the 3rd week in February, 2021 
+* **Each property is appended with the closest matching Zillow Home Value Index ZHVI** - aggregated and merged on Zipcode + number of bedrooms), resulting in a monthly time-series index price of nearby homes, dating back to 1996
+* **Additionally, many other public datasets** - Geocodio provides a few data sets we can easily append to our property data, for additional studies and usage, such as:
 
 * **The US Census Bureau** 
 * **OpenStreetMap** 
