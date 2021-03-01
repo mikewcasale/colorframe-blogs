@@ -4,7 +4,7 @@ colorframe-blogs
 A repo for blog article [ColorFrames: A Novel Machine Learning Approach to Assess Florida's Climate-Driven Real Estate Risk](https://medium.com/p/60e9a8913b85)
 
 <p align="center">
-<img width=50% src="sealevel.png" />
+<img width=75% src="sealevel.png" />
 </p>
 
 For the blog article ColorFrames: A Novel Machine Learning Approach to Assess Florida's Climate-Driven Real Estate Risk. we will be using a new data set scraped from Realtor.com.
@@ -17,7 +17,7 @@ We will test the hypothesis that a high flood risk score is a strong predictor f
 ![fi](fi.png)
 
 ### About the Data
-
+* **Over 1600 rows of property data from Florida real estate listings** 
 * **3 images per property** 
 * **2 published flood risk ratings** - one from FEMA, and one from First Street's Flood Score
 * **Each property is/was listed for sale with a published asking price on realtor.com** - as of the 3rd week in February, 2021 
