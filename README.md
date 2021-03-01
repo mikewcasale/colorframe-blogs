@@ -1,7 +1,7 @@
-blogs
+colorframe-blogs
 ==============================
 
-A repo for blog articles
+A repo for colorframe blog article
 
 Project Organization
 ------------
