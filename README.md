@@ -1,13 +1,13 @@
-colorframe-blogs
+blogs
 ==============================
 
-A repo for blog article [ColorFrames: A Novel Machine Learning Approach to Assess Florida's Climate-Driven Real Estate Risk](https://medium.com/p/60e9a8913b85)
+A repo for blog article [Applying Machine Learning to Assess Florida's Climate-Driven Real Estate Risk (part1)](https://medium.com/p/60e9a8913b85)
 
 <p align="center">
 <img width=75% src="sealevel.png" />
 </p>
 
-For the blog article ColorFrames: A Novel Machine Learning Approach to Assess Florida's Climate-Driven Real Estate Risk. we will be using a new data set scraped from Realtor.com.
+A new dataset scraped from Realtor.com
 
 This dataset includes records of over 1600 south Florida real estate properties, and includes flood risk information, demographic information, listing images, listing descriptions, how long the property has been listed, sales history, and lots of other related information.
 The target we want to predict is the difference in the rate of property value change (regression) vs the rate of change of similar properties nearby.
