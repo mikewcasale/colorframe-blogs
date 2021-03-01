@@ -1,0 +1,189 @@
+index,Beds,Baths,Area,Noise,PropertyType,DaysOnRealtor.com,YearBuilt,Latitude,Longitude,City_x,County,FemaInfo,FloodFactorInfo,LastSoldYear,SizeRank
+251,5.0,5.5,5123.0, Medium,Single Family Home,164.0,2005.0,26.143917000000002,-80.303507,Plantation,Broward County,AH   (),flood_factor_low,2016.0,6109
+8,2.0,1.5,1075.0, Medium,Condo,172.0,1976.0,25.996491,-80.120727,Hallandale Beach,Broward County,AE   (),flood_factor_high,2011.0,230
+852,4.0,3.0,2790.0, Medium,Single Family Home,55.0,2014.0,27.780161,-82.380489,Apollo Beach,Hillsborough County,X   (),flood_factor_low,2014.0,5376
+1029,3.0,2.0,1446.0, Low,Single Family Home,22.0,1980.0,27.858340000000002,-82.806344,Seminole,Pinellas County,X   (),flood_factor_low,2020.0,3848
+175,3.0,2.5,1815.0, Medium,Single Family Home,190.0,1999.0,27.273789,-80.24149200000002,Jensen Beach,St. Lucie County,X   (),flood_factor_low,2013.0,2713
+428,2.0,2.0,1010.0, Medium,Condo,5.0,1986.0,28.352933,-80.70476,Merritt Island,Brevard County,X   (),flood_factor_low,2018.0,5635
+333,4.0,4.0,4467.0, Medium,Single Family Home,23.0,2018.0,28.135902,-82.500089,Lutz,Hillsborough County,X   (),flood_factor_low,2018.0,10932
+33,3.0,3.0,2065.0, Medium,Single Family Home,327.0,1949.0,27.868103,-82.79764899999998,Seminole,Pinellas County,X   (),flood_factor_low,2017.0,6784
+1057,4.0,2.0,1862.0, Low,Single Family Home,226.0,2020.0,27.955637,-82.296693,Brandon,Hillsborough County,X   (),flood_factor_low,2019.0,4151
+861,3.0,2.5,1500.0, Medium,Townhome,63.0,2009.0,27.834018,-82.697197,Pinellas Park,Pinellas County,X   (),flood_factor_low,2009.0,3895
+143,5.0,3.0,2326.0, Medium,Single Family Home,134.0,1990.0,27.885487,-82.768737,Largo,Pinellas County,X500   (),flood_factor_high,2001.0,6070
+443,4.0,2.0,1175.0, Medium,Single Family Home,115.0,1980.0,26.153278,-80.292419,Sunrise,Broward County,X500   (),flood_factor_low,2014.0,952
+475,2.0,1.0,894.0, Medium,Condo,23.0,1966.0,26.634028000000004,-80.081303,Lake Worth,Palm Beach County,X   (),flood_factor_low,2017.0,1631
+226,3.0,2.0,1572.0, Medium,Single Family Home,20.0,1990.0,28.682014000000002,-81.533585,Apopka,Orange County,X   (),flood_factor_low,2018.0,1067
+971,3.0,2.5,1696.0, Medium,Townhome,5.0,2005.0,28.394583,-80.597897,Cape Canaveral,Brevard County,X   (),flood_factor_high,2009.0,6619
+497,2.0,2.0,1000.0, Medium,Single Family Home,113.0,2013.0,28.654968,-80.83743199999998,Titusville,Brevard County,X   (),flood_factor_high,2013.0,5900
+962,3.0,2.0,1686.0, Medium,Single Family Home,9.0,2017.0,24.933119,-80.61666899999999,Islamorada,Monroe County,AE   (),flood_factor_high,2020.0,11640
+897,2.0,2.0,1135.0, Medium,Single Family Home,41.0,1966.0,28.30973,-82.694266,Port Richey,Pasco County,X500   (),flood_factor_high,2020.0,622
+122,1.0,1.0,660.0, Medium,Condo,137.0,1973.0,26.6921,-80.230678,Royal Palm Beach,Palm Beach County,X   (),flood_factor_low,2018.0,90
+716,1.0,1.0,650.0, Medium,Condo,44.0,1974.0,28.120659999999997,-82.763233,Palm Harbor,Pinellas County,AE   (),flood_factor_high,2018.0,2711
+587,3.0,2.5,1700.0, Medium,Townhome,171.0,2011.0,26.16778,-80.315638,Sunrise,Broward County,X500   (),flood_factor_low,2018.0,6109
+530,3.0,2.0,1135.0, Medium,Single Family Home,80.0,1957.0,25.982827,-80.217975,Miramar,Broward County,AH   (),flood_factor_low,2018.0,679
+104,3.0,3.0,1919.0, Medium,Townhome,93.0,2018.0,25.994792,-80.301425,Pembroke Pines,Broward County,X500   (),flood_factor_low,2018.0,96
+52,3.0,2.5,2058.0, Low,Single Family Home,137.0,2015.0,27.3097,-80.436755,Port Saint Lucie,St. Lucie County,X   (),flood_factor_low,2016.0,3044
+934,2.0,2.0,1036.0, Medium,Condo,116.0,1988.0,28.217869,-82.683872,New Port Richey,Pasco County,AE   (),flood_factor_low,2006.0,2103
+197,4.0,3.0,2650.0, N/A,Single Family Home,76.0,2008.0,27.785572,-80.60386,Fellsmere,Indian River County,X   (),flood_factor_low,2013.0,12426
+683,5.0,4.5,3483.0, Medium,Single Family Home,69.0,2007.0,28.443857,-80.760502,Cocoa,Brevard County,X   (),flood_factor_low,2018.0,4504
+566,5.0,5.5,6533.0, Medium,Single Family Home,247.0,2005.0,26.08146,-80.317237,Davie,Broward County,X   (),flood_factor_low,2010.0,9250
+719,3.0,3.0,2152.0, Medium,Single Family Home,53.0,1966.0,28.149084999999996,-80.60096999999998,Indian Harbour Beach,Brevard County,X   (),flood_factor_high,2008.0,3357
+948,3.0,2.0,1676.0, Medium,Condo,91.0,2005.0,26.590946000000002,-80.05156600000002,Lantana,Palm Beach County,X500   (),flood_factor_high,2016.0,2534
+106,2.0,2.5,1422.0, Medium,Townhome,19.0,2016.0,25.536351,-80.379325,Homestead,Miami-Dade County,AE   (),flood_factor_high,2016.0,1697
+121,3.0,3.0,2124.0, Medium,Condo,29.0,2006.0,30.300259999999998,-81.3914,Jacksonville Beach,Duval County,VE   (),flood_factor_low,2006.0,2488
+447,3.0,2.5,3653.0, Low,Single Family Home,64.0,1990.0,30.072087,-81.69313100000002,Fleming Island,Clay County,X   (),flood_factor_low,1996.0,4380
+275,4.0,3.0,2318.0, Medium,Single Family Home,11.0,1997.0,28.181571999999996,-82.445922,Lutz,Pasco County,X   (),flood_factor_low,2019.0,7272
+680,2.0,2.0,1367.0, Medium,Single Family Home,172.0,1968.0,26.284437,-80.139393,Deerfield Beach,Broward County,X500   (),flood_factor_low,2017.0,289
+802,4.0,3.0,1988.0, Medium,Single Family Home,188.0,1960.0,26.200478,-80.129754,Fort Lauderdale,Broward County,X500   (),flood_factor_high,1999.0,2828
+1069,4.0,3.0,2437.0, Medium,Single Family Home,107.0,2000.0,25.993266000000002,-80.316047,Hollywood,Broward County,X500   (),flood_factor_low,1999.0,292
+140,3.0,1.5,1524.0, Low,Single Family Home,136.0,1976.0,28.294128999999998,-82.610374,New Port Richey,Pasco County,X   (),flood_factor_low,2019.0,4972
+693,4.0,3.0,2490.0, Low,Single Family Home,24.0,1966.0,26.642588,-80.100629,Lake Worth,Palm Beach County,X   (),flood_factor_low,2019.0,1631
+159,3.0,2.0,2540.0, Low,Single Family Home,9.0,2002.0,28.101946,-82.64330600000002,Odessa,Hillsborough County,X   (),flood_factor_low,2015.0,4485
+139,2.0,2.0,1242.0, Medium,Single Family Home,52.0,1968.0,26.583045000000002,-80.064086,Lantana,Palm Beach County,X   (),flood_factor_high,2013.0,2534
+899,1.0,1.0,630.0, Low,Condo,32.0,1979.0,27.603759999999998,-80.374769,Vero Beach,Indian River County,X   (),flood_factor_high,2006.0,3682
+1011,3.0,2.0,2395.0, Medium,Single Family Home,25.0,1986.0,26.621485999999997,-80.19026099999998,Lake Worth,Palm Beach County,X   (),flood_factor_low,1998.0,392
+1006,4.0,3.5,3050.0, Medium,Single Family Home,78.0,2014.0,28.299202,-80.742024,Rockledge,Brevard County,X   (),flood_factor_low,2016.0,1679
+373,5.0,4.0,4323.0, Low,Single Family Home,106.0,2004.0,27.103963,-80.282738,Stuart,Martin County,X   (),flood_factor_low,2010.0,758
+144,5.0,3.0,2326.0, Medium,Single Family Home,135.0,1990.0,27.885487,-82.768737,Largo,Pinellas County,X500   (),flood_factor_high,2001.0,6070
+539,4.0,2.5,2598.0, Low,Single Family Home,28.0,1993.0,28.086405,-82.730434,Palm Harbor,Pinellas County,X   (),flood_factor_low,2004.0,2783
+679,4.0,3.0,2026.0, Medium,Single Family Home,57.0,1962.0,26.612659000000004,-80.10172,Lake Worth,Palm Beach County,X   (),flood_factor_low,2016.0,1631
+149,1.0,1.5,820.0, Medium,Condo,313.0,1973.0,25.89051700000001,-80.173328,North Miami,Miami-Dade County,X   (),flood_factor_high,2019.0,1421
+838,3.0,2.0,1228.0, Medium,Condo,168.0,2014.0,28.250925,-82.731261,New Port Richey,Pasco County,AE   (),flood_factor_high,2014.0,3050
+276,5.0,6.5,4301.0, Medium,Single Family Home,82.0,2018.0,26.119225,-80.372688,Weston,Broward County,X500   (),flood_factor_low,2019.0,3337
+739,3.0,2.0,1542.0, Medium,Single Family Home,110.0,2004.0,25.960203,-80.33073,Miramar,Broward County,X   (),flood_factor_high,2021.0,292
+249,4.0,2.0,1936.0, Low,Single Family Home,156.0,1997.0,26.807644,-80.29056,Loxahatchee,Palm Beach County,X   (),flood_factor_low,2018.0,5080
+283,3.0,2.0,2152.0, Low,Single Family Home,89.0,1990.0,25.008371,-80.533575,Tavernier,Monroe County,AE   (),flood_factor_high,2020.0,10588
+661,4.0,4.5,3533.0, Medium,Single Family Home,71.0,2002.0,26.867781,-80.053495,Juno Beach,Palm Beach County,X   (),flood_factor_low,2000.0,4267
+1065,4.0,2.0,1652.0, Medium,Single Family Home,185.0,2006.0,25.922669,-80.172813,Miami,Miami-Dade County,X   (),flood_factor_low,2020.0,2819
+577,5.0,4.5,4521.0, Low,Single Family Home,367.0,2006.0,26.079486,-80.405971,Weston,Broward County,AH   (),flood_factor_low,2005.0,10831
+626,4.0,4.0,2552.0, N/A,Single Family Home,20.0,2007.0,29.891762,-81.62141700000002,Green Cove Springs,Clay County,AE   (),flood_factor_high,2016.0,4576
+170,3.0,2.0,1900.0, Medium,Single Family Home,10.0,1986.0,28.025806,-82.751793,Dunedin,Pinellas County,X   (),flood_factor_low,2020.0,698
+125,1.0,1.0,595.0, Medium,Condo,30.0,1973.0,26.574740000000002,-80.05145300000002,Lantana,Palm Beach County,AE   (),flood_factor_high,2018.0,2534
+94,3.0,2.5,1770.0, Medium,Townhome,1.0,2017.0,25.533981,-80.377262,Homestead,Miami-Dade County,AE   (),flood_factor_high,2017.0,1697
+382,4.0,3.0,3211.0, Low,Single Family Home,23.0,2016.0,30.004717,-81.721751,Green Cove Springs,Clay County,X   (),flood_factor_low,2017.0,4576
+374,2.0,2.5,2325.0, Low,Single Family Home,66.0,1986.0,30.352162,-81.405322,Atlantic Beach,Duval County,X500   (),flood_factor_high,2016.0,4161
+653,4.0,2.0,2456.0, Low,Single Family Home,14.0,1989.0,28.178448,-80.68508800000002,Melbourne,Brevard County,A   (),flood_factor_high,2019.0,6569
+616,3.0,2.0,968.0, Medium,Condo,45.0,1974.0,26.170526000000002,-80.262831,Sunrise,Broward County,X500   (),flood_factor_low,2009.0,3049
+456,1.0,1.0,689.0, Low,Condo,28.0,1977.0,27.444151,-80.281918,Fort Pierce,St. Lucie County,X500   (),flood_factor_high,2014.0,7537
+604,2.0,2.0,1400.0, Medium,Condo,81.0,1984.0,26.834445000000002,-80.06277800000002,North Palm Beach,Palm Beach County,X   (),flood_factor_low,2019.0,4267
+1049,3.0,2.0,1946.0, Medium,Single Family Home,16.0,1994.0,25.804082,-80.354777,Doral,Miami-Dade County,X   (),flood_factor_low,2008.0,1835
+986,4.0,3.5,4644.0, Medium,Single Family Home,122.0,1998.0,25.657038,-80.33619200000003,Miami,Miami-Dade County,X   (),flood_factor_low,2018.0,886
+308,1.0,1.5,915.0, Medium,Condo,32.0,2007.0,25.987991,-80.131232,Hallandale Beach,Broward County,X500   (),flood_factor_high,2016.0,230
+908,3.0,3.0,1778.0, Medium,Single Family Home,74.0,1960.0,26.82069000000001,-80.077453,North Palm Beach,Palm Beach County,X   (),flood_factor_high,2011.0,4267
+663,3.0,2.0,1382.0, Medium,Single Family Home,19.0,1971.0,26.283236,-80.226083,Coral Springs,Broward County,X   (),flood_factor_low,2019.0,811
+310,3.0,2.0,1433.0, Low,Single Family Home,26.0,2007.0,30.08578,-81.76677099999998,Middleburg,Clay County,X   (),flood_factor_low,2007.0,753
+215,1.0,1.5,800.0, Medium,Condo,66.0,1973.0,26.299212,-80.097587,Deerfield Beach,Broward County,AH   (),flood_factor_high,2018.0,3252
+648,3.0,2.5,1805.0, Medium,Single Family Home,19.0,1953.0,26.118323,-80.121415,Fort Lauderdale,Broward County,X   (),flood_factor_high,2017.0,4570
+933,2.0,2.0,2040.0, Medium,Condo,136.0,2006.0,27.844557000000002,-82.785247,Seminole,Pinellas County,AE   (),flood_factor_low,2006.0,3848
+793,5.0,3.5,3206.0, Medium,Single Family Home,114.0,2009.0,28.24268,-82.72531,New Port Richey,Pasco County,AE   (),flood_factor_high,2005.0,3050
+425,3.0,2.0,1250.0, Medium,Single Family Home,165.0,2004.0,25.490011,-80.419901,Homestead,Miami-Dade County,X   (),flood_factor_high,2018.0,840
+504,3.0,2.0,1953.0, Medium,Single Family Home,109.0,1995.0,26.320854999999998,-80.16606999999998,Deerfield Beach,Broward County,X500   (),flood_factor_low,2018.0,1107
+337,3.0,2.0,1812.0, Medium,Single Family Home,123.0,2015.0,27.260653,-80.276635,Jensen Beach,Martin County,AH   (),flood_factor_low,2019.0,2713
+1010,4.0,2.0,1600.0, Low,Single Family Home,50.0,1966.0,28.317655,-80.73362900000002,Rockledge,Brevard County,X   (),flood_factor_low,2020.0,1679
+942,4.0,3.0,2226.0, Medium,Single Family Home,94.0,1983.0,28.155294,-80.602334,Indian Harbour Beach,Brevard County,X   (),flood_factor_high,2016.0,3357
+1063,3.0,2.0,2250.0, Medium,Single Family Home,43.0,1961.0,25.904128,-80.302463,Hialeah,Miami-Dade County,X   (),flood_factor_low,2013.0,2107
+686,4.0,3.0,2603.0, Low,Single Family Home,36.0,1997.0,27.885871,-82.21671500000002,Valrico,Hillsborough County,X   (),flood_factor_low,1997.0,4759
+369,3.0,2.0,1296.0, High,Condo,215.0,1974.0,25.870801,-80.321749,Hialeah,Miami-Dade County,AH   (),flood_factor_low,2015.0,270
+579,3.0,3.0,2048.0, Medium,Single Family Home,42.0,1948.0,26.495907,-80.061208,Delray Beach,Palm Beach County,X500   (),flood_factor_high,2014.0,5841
+717,3.0,2.5,1618.0, Medium,Single Family Home,19.0,2017.0,26.193438,-80.21707099999998,Fort Lauderdale,Broward County,AH   (),flood_factor_low,2017.0,365
+338,4.0,4.0,3766.0, Low,Single Family Home,212.0,2016.0,30.346073999999998,-81.39818299999997,Atlantic Beach,Duval County,X   (),flood_factor_low,2014.0,4161
+502,4.0,3.0,2763.0, Low,Single Family Home,145.0,2017.0,26.453397999999996,-81.945697,Fort Myers Beach,Lee County,AE   (),flood_factor_high,2016.0,5839
+285,3.0,2.0,1200.0, Low,Single Family Home,29.0,1993.0,28.019313,-80.723244,Palm Bay,Brevard County,X   (),flood_factor_high,2004.0,1528
+329,2.0,2.0,1854.0, N/A,Townhome,7.0,2005.0,28.420848,-82.633273,Hudson,Pasco County,X   (),flood_factor_low,2005.0,1435
+1047,3.0,2.0,1404.0, Medium,Single Family Home,9.0,1981.0,27.890649,-82.773214,Largo,Pinellas County,AE   (),flood_factor_low,2020.0,6070
+824,2.0,2.0,1128.0, Medium,Single Family Home,52.0,1990.0,27.113740000000004,-80.16904,Hobe Sound,Martin County,AE   (),flood_factor_low,2019.0,4235
+480,2.0,1.0,894.0, Medium,Condo,122.0,1969.0,26.632708,-80.081307,Lake Worth,Palm Beach County,X   (),flood_factor_low,2020.0,1631
+203,2.0,2.0,1068.0, Low,Single Family Home,40.0,1961.0,28.359989000000002,-82.70774200000002,Hudson,Pasco County,AE   (),flood_factor_high,2001.0,1435
+196,2.0,2.0,1266.0, Medium,Condo,25.0,2005.0,26.119266,-80.160076,Fort Lauderdale,Broward County,X500   (),flood_factor_high,2005.0,725
+17,4.0,2.5,2620.0, Low,Single Family Home,16.0,2016.0,27.770490000000002,-82.33973,Ruskin,Hillsborough County,X   (),flood_factor_low,2017.0,1934
+211,3.0,2.5,1495.0, Medium,Condo,38.0,2018.0,28.296469000000002,-80.730806,Rockledge,Brevard County,X   (),flood_factor_low,2018.0,1679
+541,4.0,5.5,4889.0, Medium,Single Family Home,44.0,1994.0,28.132922999999998,-82.699844,Tarpon Springs,Pinellas County,X   (),flood_factor_low,2019.0,9774
+370,4.0,2.0,2281.0, N/A,Single Family Home,109.0,2005.0,26.712343,-80.354778,Loxahatchee,Palm Beach County,AO   (),flood_factor_low,2013.0,5080
+161,4.0,4.5,5125.0, Low,Single Family Home,154.0,2021.0,27.21902,-80.22161,Jensen Beach,Martin County,X   (),flood_factor_low,2019.0,2713
+1004,2.0,2.0,1230.0, Medium,Condo,48.0,1979.0,26.879804999999998,-80.052924,Juno Beach,Palm Beach County,VE   (),flood_factor_low,2019.0,4267
+620,5.0,3.0,2526.0, Medium,Single Family Home,194.0,2017.0,26.623939,-80.119791,Lake Worth,Palm Beach County,X   (),flood_factor_low,2020.0,593
+885,3.0,2.0,2187.0, Medium,Condo,8.0,2005.0,28.382193,-80.608652,Cape Canaveral,Brevard County,X   (),flood_factor_high,2005.0,6619
+1067,3.0,1.0,1128.0, Medium,Single Family Home,242.0,1945.0,25.890095000000002,-80.186714,North Miami,Miami-Dade County,AE   (),flood_factor_low,2017.0,1421
+969,3.0,2.5,1696.0, Medium,Townhome,51.0,2005.0,28.394501,-80.59789599999998,Cape Canaveral,Brevard County,X   (),flood_factor_high,2011.0,6619
+816,4.0,3.0,2312.0, Low,Single Family Home,180.0,2020.0,27.935101,-80.654636,Palm Bay,Brevard County,X   (),flood_factor_low,2017.0,2924
+658,5.0,7.5,8369.0, Medium,Single Family Home,18.0,2003.0,26.401684000000003,-80.065234,Highland Beach,Palm Beach County,VE   (),flood_factor_low,2019.0,4129
+320,3.0,2.5,2701.0, Medium,Townhome,205.0,2016.0,26.230386,-80.119954,Pompano Beach,Broward County,AH   (),flood_factor_high,2016.0,2446
+568,4.0,2.0,2645.0, Medium,Single Family Home,9.0,2002.0,27.190379999999998,-80.296625,Palm City,Martin County,AE   (),flood_factor_high,2012.0,2950
+820,2.0,2.0,1199.0, Medium,Condo,51.0,1985.0,27.787806,-80.452168,Sebastian,Indian River County,AE   (),flood_factor_high,2016.0,2781
+402,1.0,2.0,887.0, Medium,Condo,89.0,1976.0,26.308017,-80.133623,Deerfield Beach,Broward County,X   (),flood_factor_low,2017.0,1107
+1046,5.0,3.0,3371.0, Medium,Single Family Home,80.0,2001.0,26.5301,-80.136398,Boynton Beach,Palm Beach County,X   (),flood_factor_low,2019.0,730
+336,4.0,2.5,2916.0, Low,Single Family Home,31.0,1995.0,30.115837,-81.71224000000002,Fleming Island,Clay County,X   (),flood_factor_low,2008.0,4380
+1061,4.0,2.0,1600.0, Medium,Single Family Home,7.0,1967.0,26.08849,-80.181724,Fort Lauderdale,Broward County,X500   (),flood_factor_low,2020.0,725
+287,1.0,2.0,1125.0, Medium,Condo,718.0,2018.0,25.932873999999998,-80.12120300000002,Sunny Isles Beach,Miami-Dade County,X500   (),flood_factor_high,2018.0,79
+193,2.0,2.0,1050.0, Medium,Condo,92.0,1973.0,25.899594,-80.159897,North Miami,Miami-Dade County,AE   (),flood_factor_high,2011.0,6073
+231,2.0,2.5,1603.0, Medium,Condo,440.0,2007.0,25.914456,-80.151875,North Miami,Miami-Dade County,AE   (),flood_factor_low,2011.0,6073
+832,4.0,2.5,2648.0, Medium,Single Family Home,30.0,1985.0,28.049753999999997,-82.380677,Temple Terrace,Hillsborough County,X   (),flood_factor_low,2001.0,1023
+224,1.0,1.0,900.0, Medium,Condo,340.0,1972.0,25.890871,-80.169033,North Miami,Miami-Dade County,AE   (),flood_factor_high,2020.0,1421
+343,4.0,3.0,2373.0, Low,Single Family Home,16.0,2013.0,30.0975,-81.859137,Middleburg,Clay County,X   (),flood_factor_low,2016.0,753
+831,3.0,2.0,1400.0, High,Single Family Home,37.0,1997.0,26.893561,-80.133013,Jupiter,Palm Beach County,X   (),flood_factor_low,2020.0,507
+550,5.0,3.5,4472.0, Medium,Single Family Home,8.0,2007.0,28.282162,-80.73517,Rockledge,Brevard County,X   (),flood_factor_low,2020.0,1679
+1023,2.0,2.0,1190.0, Medium,Single Family Home,4.0,1973.0,28.292540999999996,-82.70029,Port Richey,Pasco County,X   (),flood_factor_low,2019.0,622
+692,3.0,2.0,1530.0, N/A,Single Family Home,29.0,1986.0,30.500213000000002,-81.818574,Callahan,Nassau County,X   (),flood_factor_low,2015.0,7620
+300,3.0,3.5,2158.0, Medium,Condo,494.0,2015.0,25.935893,-80.14871,Aventura,Miami-Dade County,AE   (),flood_factor_high,2015.0,79
+1050,2.0,2.0,1063.0, Medium,Condo,95.0,1986.0,26.213661,-80.284297,Tamarac,Broward County,X500   (),flood_factor_low,2006.0,401
+552,2.0,3.0,1578.0, Medium,Single Family Home,24.0,1954.0,27.969601,-82.768676,Clearwater,Pinellas County,X   (),flood_factor_low,2020.0,4216
+168,5.0,3.0,3344.0, N/A,Single Family Home,97.0,2020.0,27.796326,-82.26649599999998,Riverview,Hillsborough County,X   (),flood_factor_low,2020.0,3346
+411,5.0,3.5,3716.0, Medium,Single Family Home,5.0,2006.0,26.094623000000002,-80.174309,Fort Lauderdale,Broward County,AH   (),flood_factor_high,2003.0,725
+1007,5.0,3.5,4264.0, Low,Single Family Home,175.0,1925.0,28.158405,-82.776393,Tarpon Springs,Pinellas County,AE   (),flood_factor_high,2000.0,3087
+542,1.0,1.5,894.0, Medium,Condo,12.0,1972.0,26.632254,-80.080751,Lake Worth,Palm Beach County,X   (),flood_factor_low,2013.0,1631
+657,4.0,3.0,2386.0, Low,Single Family Home,15.0,1989.0,27.978009000000004,-82.162157,Plant City,Hillsborough County,X   (),flood_factor_low,2017.0,6623
+638,4.0,3.0,2816.0, Medium,Single Family Home,16.0,1988.0,26.322905,-80.13205,Deerfield Beach,Broward County,X   (),flood_factor_low,1996.0,1107
+264,5.0,4.0,3528.0, Low,Single Family Home,188.0,1954.0,30.342048,-81.398457,Atlantic Beach,Duval County,X   (),flood_factor_low,2015.0,4161
+153,2.0,2.0,1190.0, Medium,Condo,93.0,1976.0,26.789378999999997,-80.035542,Riviera Beach,Palm Beach County,AE   (),flood_factor_high,2019.0,2698
+750,4.0,3.0,2193.0, Medium,Single Family Home,169.0,1962.0,26.192044,-80.107225,Fort Lauderdale,Broward County,X500   (),flood_factor_high,2014.0,697
+379,1.0,1.0,642.0, Medium,Condo,90.0,1979.0,26.640934,-80.105136,Palm Springs,Palm Beach County,X   (),flood_factor_low,2011.0,1631
+753,4.0,2.0,1964.0, N/A,Single Family Home,30.0,2019.0,28.233595,-82.268438,Wesley Chapel,Pasco County,AH   (),flood_factor_low,2019.0,7074
+1020,5.0,5.0,5034.0, Medium,Single Family Home,149.0,2013.0,27.860574,-82.27176899999998,Brandon,Hillsborough County,X   (),flood_factor_low,2019.0,476
+113,3.0,2.0,1473.0, Low,Single Family Home,45.0,1977.0,27.856715,-82.80319300000002,Seminole,Pinellas County,X   (),flood_factor_low,2011.0,3848
+585,4.0,2.0,1978.0, Medium,Single Family Home,31.0,1977.0,26.627806,-80.172976,Lake Worth,Palm Beach County,X   (),flood_factor_high,2013.0,392
+2,1.0,1.0,845.0, Medium,Condo,178.0,1965.0,25.79045,-80.12902700000002,Miami Beach,Miami-Dade County,AE   (),flood_factor_high,2015.0,101
+268,2.0,2.5,1235.0, Medium,Condo,11.0,1980.0,26.116410000000002,-80.366827,Weston,Broward County,X500   (),flood_factor_low,2004.0,3337
+743,4.0,2.0,1664.0, Medium,Single Family Home,16.0,1954.0,26.610128000000003,-80.072299,Lake Worth,Palm Beach County,X   (),flood_factor_low,2019.0,1631
+712,3.0,2.5,1899.0, Medium,Condo,162.0,1985.0,26.392296999999996,-80.06975,Highland Beach,Palm Beach County,AE   (),flood_factor_high,2018.0,4129
+499,3.0,2.0,2820.0, Low,Single Family Home,52.0,1995.0,27.919626,-82.24013599999998,Valrico,Hillsborough County,X   (),flood_factor_low,2000.0,3251
+315,5.0,4.0,2876.0, Medium,Single Family Home,31.0,1999.0,30.10378900000001,-81.72882800000002,Fleming Island,Clay County,X   (),flood_factor_low,2014.0,4380
+995,5.0,4.5,3900.0, Low,Single Family Home,19.0,1993.0,28.203714,-80.680749,Melbourne,Brevard County,A   (),flood_factor_low,2006.0,1007
+583,5.0,4.5,3184.0, Low,Condo,249.0,2015.0,25.949379,-80.136329,Miami,Miami-Dade County,AE   (),flood_factor_high,2016.0,1121
+669,4.0,2.5,2700.0, Low,Single Family Home,51.0,2002.0,30.268555,-81.43414,Jacksonville Beach,Duval County,X   (),flood_factor_low,2018.0,2488
+108,4.0,2.5,2118.0, Medium,Single Family Home,36.0,1992.0,28.652746999999998,-81.19291,Oviedo,Seminole County,X   (),flood_factor_low,1998.0,456
+702,3.0,3.0,2122.0, Low,Townhome,95.0,2007.0,28.253096999999997,-82.739049,New Port Richey,Pasco County,AE   (),flood_factor_high,2020.0,3050
+553,3.0,2.0,1168.0, Medium,Single Family Home,24.0,1967.0,26.269109999999998,-80.107864,Pompano Beach,Broward County,X500   (),flood_factor_low,2006.0,289
+301,2.0,2.5,1999.0, Medium,Condo,761.0,2015.0,25.935893,-80.14871,Aventura,Miami-Dade County,AE   (),flood_factor_high,2016.0,79
+635,2.0,2.5,1570.0, Medium,Townhome,79.0,1974.0,25.934098000000002,-80.132604,North Miami Beach,Miami-Dade County,AE   (),flood_factor_high,2015.0,79
+819,3.0,2.0,2120.0, Low,Single Family Home,19.0,1988.0,28.123606,-80.58638499999998,Indialantic,Brevard County,X   (),flood_factor_high,2003.0,7213
+846,4.0,3.0,2767.0,,Single Family Home,106.0,1954.0,25.657492,-80.301238,Pinecrest,Miami-Dade County,AE   (),flood_factor_low,1999.0,3187
+465,3.0,2.5,1700.0, Medium,Townhome,291.0,2020.0,27.936071999999996,-82.734222,Clearwater,Pinellas County,X500   (),flood_factor_high,2020.0,2695
+19,4.0,3.5,3460.0, Medium,Single Family Home,68.0,2005.0,27.865964,-82.79849,Largo,Pinellas County,X   (),flood_factor_low,2019.0,6784
+881,3.0,2.5,1478.0, Medium,Townhome,76.0,1979.0,25.701566,-80.380131,Miami,Miami-Dade County,AH   (),flood_factor_low,2015.0,3530
+258,2.0,1.5,878.0, Medium,Single Family Home,108.0,1977.0,28.030309999999997,-80.62976,Palm Bay,Brevard County,X   (),flood_factor_high,2014.0,3539
+1000,2.0,2.0,1170.0, Medium,Condo,246.0,1984.0,26.006726999999998,-80.267533,Pembroke Pines,Broward County,X500   (),flood_factor_low,2019.0,96
+549,4.0,3.0,2081.0, Medium,Single Family Home,89.0,1997.0,27.899856,-82.278461,Brandon,Hillsborough County,X   (),flood_factor_low,1999.0,476
+22,4.0,3.0,2642.0, N/A,Single Family Home,15.0,2006.0,24.569017000000002,-81.761101,Key West,Monroe County,AE   (),flood_factor_high,2020.0,1874
+978,3.0,2.0,1464.0, N/A,Single Family Home,31.0,2008.0,30.625337,-81.59021,Yulee,Nassau County,X   (),flood_factor_low,2018.0,5945
+138,2.0,1.0,846.0, Medium,Single Family Home,240.0,1949.0,25.888576999999998,-80.219718,North Miami,Miami-Dade County,X   (),flood_factor_low,2020.0,7949
+775,2.0,2.5,1262.0, Medium,Townhome,5.0,1980.0,26.623462,-80.09485699999998,Palm Springs,Palm Beach County,AE   (),flood_factor_low,2019.0,1631
+446,3.0,2.0,2253.0, Low,Single Family Home,155.0,1988.0,30.299673,-81.41349699999998,Jacksonville Beach,Duval County,X   (),flood_factor_low,1999.0,2488
+603,2.0,2.0,1293.0, Medium,Condo,176.0,1985.0,26.592327,-80.039564,Palm Beach,Palm Beach County,AE   (),flood_factor_high,2016.0,5252
+887,4.0,3.0,2755.0, Low,Single Family Home,8.0,2002.0,28.662259000000002,-81.152004,Oviedo,Seminole County,X   (),flood_factor_low,2007.0,8646
+321,5.0,3.5,3736.0, Low,Single Family Home,184.0,1990.0,28.267106,-80.66755699999999,Merritt Island,Brevard County,X   (),flood_factor_high,1998.0,5635
+900,3.0,2.0,1972.0, Medium,Single Family Home,96.0,1971.0,25.657976,-80.314964,Pinecrest,Miami-Dade County,AE   (),flood_factor_low,2016.0,3187
+841,4.0,2.0,1710.0, Low,Single Family Home,18.0,1963.0,28.162784000000002,-80.59221,Satellite Beach,Brevard County,X   (),flood_factor_low,2015.0,3357
+342,4.0,4.5,6684.0, Medium,Condo,222.0,2016.0,25.948227,-80.120099,Sunny Isles Beach,Miami-Dade County,X   (),flood_factor_high,2018.0,79
+596,5.0,4.0,3321.0, Low,Single Family Home,37.0,2003.0,30.105916999999998,-81.744577,Fleming Island,Clay County,AE   (),flood_factor_high,2015.0,4380
+188,3.0,2.5,1593.0, Medium,Townhome,38.0,2003.0,27.978540000000002,-82.70872,Clearwater,Pinellas County,AE   (),flood_factor_high,2012.0,5681
+431,5.0,3.5,3197.0, Low,Single Family Home,43.0,2001.0,26.103315,-80.413442,Weston,Broward County,X500   (),flood_factor_low,2003.0,7397
+556,3.0,2.5,1878.0, Low,Townhome,24.0,2017.0,30.052791,-81.849928,Middleburg,Clay County,X   (),flood_factor_low,2020.0,753
+34,2.0,2.5,1400.0, Medium,Townhome,129.0,1991.0,28.35098,-80.609032,Cocoa Beach,Brevard County,X   (),flood_factor_high,2016.0,5376
+859,1.0,1.5,708.0, Medium,Condo,52.0,1981.0,26.123278,-80.238127,Plantation,Broward County,X500   (),flood_factor_low,2017.0,3074
+305,2.0,2.0,1667.0, Medium,Condo,642.0,2015.0,25.935893,-80.14871,Aventura,Miami-Dade County,AE   (),flood_factor_high,2016.0,79
+982,4.0,3.5,2199.0, Medium,Single Family Home,71.0,1935.0,25.821641,-80.132468,Miami Beach,Miami-Dade County,AE   (),flood_factor_high,1998.0,2639
+957,3.0,3.0,2396.0, Medium,Single Family Home,121.0,2000.0,27.096781,-80.144033,Hobe Sound,Martin County,X   (),flood_factor_high,1999.0,4235
+1048,3.0,2.0,1404.0, Medium,Single Family Home,9.0,1981.0,27.890649,-82.773214,Largo,Pinellas County,AE   (),flood_factor_low,2020.0,6070
+711,3.0,3.5,3265.0, Medium,Condo,240.0,2019.0,25.823095000000002,-80.131016,Miami Beach,Miami-Dade County,AE   (),flood_factor_high,2019.0,2639
+152,3.0,2.0,1858.0, N/A,Single Family Home,3.0,1985.0,27.75993900000001,-80.584307,Fellsmere,Indian River County,A   (),flood_factor_low,2020.0,12426
+449,2.0,2.0,1522.0, Medium,Single Family Home,43.0,1955.0,26.218289000000002,-80.10140200000002,Pompano Beach,Broward County,AE   (),flood_factor_high,2010.0,1036

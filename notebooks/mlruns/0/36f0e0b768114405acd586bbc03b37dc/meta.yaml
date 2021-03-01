@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/judge/Local/projects/blogs/blogs/notebooks/mlruns/0/36f0e0b768114405acd586bbc03b37dc/artifacts
+end_time: 1614563606964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 36f0e0b768114405acd586bbc03b37dc
+run_uuid: 36f0e0b768114405acd586bbc03b37dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1614563296792
+status: 3
+tags: []
+user_id: judge
